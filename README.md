@@ -5,6 +5,7 @@ This read me provides a brief introduction to who I am, and I how you can reach 
 - [Introduction](#Introduction) 
 - [Contact Information](#Contact-Information)
 - [Extracurricular Activities](#Extracurricular-Activities)
+- [Code Examples](#Code-Examples)
 
 ## Introduction
 ### Name
@@ -23,6 +24,14 @@ This read me provides a brief introduction to who I am, and I how you can reach 
 
 ## Extracurricular Activities
 - ⚡ Fun fact: I love cigars...
+
+## Code examples
+- `Single line of code`
+- ```bash
+  #Multiple lines of code
+  $cd ~
+  $ls -al
+  ```
 
 <!---
 BZA2025/BZA2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
