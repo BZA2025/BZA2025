@@ -17,7 +17,13 @@ This read me provides a brief introduction to who I am, and I how you can reach 
 - 😎 Azure AZ-104 
 - 🦾 AWS Cloud Architect Associate
 ### Collaboration
-- 💞️ I’m looking to collaborate on Network project as I prepare for Network+ cert...
+## 🤝 Collaboration
+
+💼 I’m looking to collaborate on:
+- Cloud architecture projects (AWS and Azure)
+- Cloud security labs (IAM, networking, automation)
+- Python scripting for automation and DevOps
+- Infrastructure as Code (Terraform, CI/CD pipelines)
 
 ## Contact Information
 - 📫 https://www.linkedin.com/in/bazchaun-rogers-751568371/
